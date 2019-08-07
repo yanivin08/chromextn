@@ -2,7 +2,7 @@ Dim oFSO
 Set oFSO = CreateObject("Scripting.FileSystemObject")
 
 ' Create a new folder
-  oFSO.CreateFolder "C:\\Users\arvin76560\Documents\XPO\Humit v14.08"
+  'oFSO.CreateFolder "C:\\Users\arvin76560\Documents\XPO\Humit v14.08"
 
 ' Copy a file into the new folder
 ' Note that the destination folder path must end with a path separator (\)
