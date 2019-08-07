@@ -6,4 +6,4 @@ Set oFSO = CreateObject("Scripting.FileSystemObject")
 
 ' Copy a file into the new folder
 ' Note that the destination folder path must end with a path separator (\)
-  oFSO.CopyFolder "\\fs01\quality & process excellence\Process Excellence\Audit-QPE\TTL Philippines\Projects\XPO SpeedyG Buddy\HUMIT v14.08", "C:\\Users\arvin76560\Documents\XPO\"
+  oFSO.CopyFolder "\\fs01\quality & process excellence\Process Excellence\Audit-QPE\TTL Philippines\Projects\XPO SpeedyG Buddy\HUMIT v14.08", "C:\\Users\arvin76560\Documents\XPO"
